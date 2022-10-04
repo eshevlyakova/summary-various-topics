@@ -2,3 +2,4 @@
 
 **Содержание:**
 1. [Парадигмы программирования](https://github.com/eshevlyakova/summary-various-topics/tree/main/paradigms)
+2. [Процесс загрузки web-страницы](https://github.com/eshevlyakova/summary-various-topics/tree/main/process-loading-webpage)
