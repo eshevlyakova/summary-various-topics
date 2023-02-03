@@ -6,3 +6,4 @@
 3. [Алгоритмы от Yandex](https://github.com/eshevlyakova/summary-various-topics/tree/main/algorithms-yandex) | :white_check_mark:
 4. [Заметки по книге "JavaScript: полное руководство (7-е издание) | Флэнаган Дэвид"](https://github.com/eshevlyakova/summary-various-topics/tree/main/david-flanagan-javascript-7) | :pencil2:
 5. [Регулярные выражения](https://github.com/eshevlyakova/summary-various-topics/tree/main/regexp) | :white_check_mark:
+6. [Принципы SOLID](https://github.com/eshevlyakova/summary-various-topics/tree/main/solid) | :white_check_mark:
